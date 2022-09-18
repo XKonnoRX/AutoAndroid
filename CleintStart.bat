@@ -1,0 +1,1 @@
+java -jar adbportforward.jar client adblocation=D:\AutoAndroid\ remotehost=192.168.0.192
