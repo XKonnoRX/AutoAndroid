@@ -1,1 +1,0 @@
-java -jar adbportforward.jar server adblocation=D:\AutoAndroid\
